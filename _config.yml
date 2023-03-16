@@ -2,7 +2,7 @@ etitle: Gorras DM # Shown in header on pages with full_logo: true
 short_logo: PF. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   ENVÍO GRATIS EN COMPRAS A PARTIR DE $1,599.
-url: "gorras-dm.github.io" # Site base URL
+url: "https://ritijjain.github.io/pudhina-fresh" # Site base URL
 
 author:
   name: Ritij Jain
