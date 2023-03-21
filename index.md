@@ -9,9 +9,9 @@ sitemap:
 ---
 <p class="describe-text">Envio gratis en compras a partir de $1,599.</p>
 <br>
-Suscríbete a nuestro sitio y no te pierdas lanzamientos y novedades.. [fernandaacortess@gmail.com](#) suscripcion directamente [resume](#).
+Suscríbete a nuestro sitio y no te pierdas lanzamientos y novedades. [fernandaacortess@gmail.com](#) <- ccualquier duda o aclaracion [suscribete](#).
 
-Usamos cookies en el sitio web para mejorar su experiencia y nuestros servicios. contacto directo con la empresa [Pudhina Fresh](
+Usamos cookies en el sitio web para mejorar su experiencia y nuestros servicios. contacto directo con la empresa [Gorras DM](
 gorras-dm.github.io).
 
 <br>
