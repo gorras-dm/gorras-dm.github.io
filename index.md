@@ -1,9 +1,9 @@
 ---
 layout: page
 full_logo: true
-title: 
+title: GORRAS DM
 subtitle: 
-description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+description: Envio gratis en compras a partir de $1,599.
 sitemap:
   priority: 1.0
 ---
