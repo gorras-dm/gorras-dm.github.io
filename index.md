@@ -11,7 +11,8 @@ sitemap:
 <br>
 This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [fernandaacortess@gmail.com](#) or a link to your [resume](#).
 
-Usamos cookies en el sitio web para mejorar su experiencia y nuestros servicios. contacto directo con la empresa [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
+Usamos cookies en el sitio web para mejorar su experiencia y nuestros servicios. contacto directo con la empresa [Pudhina Fresh](
+gorras-dm.github.io).
 
 <br>
 <br>
