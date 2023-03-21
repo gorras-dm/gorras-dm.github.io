@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Some Articles Are Just So Long They Deserve a Really Long Title To See if Things Will Break Well
+title:  Washington Nationals Authentic Collection 59Fifty Cerrada
 date:   2020-12-25
 tags: tag1 tag2
 splash_img_source: /assets/img/apple-store-5539422_1920.jpg
