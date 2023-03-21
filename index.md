@@ -9,7 +9,7 @@ sitemap:
 ---
 <p class="describe-text">Envio gratis en compras a partir de $1,599.</p>
 <br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [fernandaacortess@gmail.com](#) or a link to your [resume](#).
+Suscríbete a nuestro sitio y no te pierdas lanzamientos y novedades.. [fernandaacortess@gmail.com](#) suscripcion directamente [resume](#).
 
 Usamos cookies en el sitio web para mejorar su experiencia y nuestros servicios. contacto directo con la empresa [Pudhina Fresh](
 gorras-dm.github.io).
