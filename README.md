@@ -2,10 +2,11 @@
 Envio gratis en compras a partir de $1,599.
 
 
-Pagina web: [gorras-dm.github.io](gorras-dm.github.io), 
+Pagina web: [gorras-dm.github.io](gorras-dm.github.io) 
 
-* Minimal design based on Bootstrap 4.
-* Showcase your projects on the masonry style project page with collapsible cards – [demo](https://ritijjain.github.io/pudhina-fresh/projects/).
+* Conoce las gorras originales, ropa y accesorios DM México.
+* Aquí encontrarás lanzamientos, novedades y mucha información sobre las gorras deportivas y de moda que DM tiene para ti. ¡Descubre más! – [demo](
+gorras-dm.github.io).
 * Categorize posts and projects using tags and view them on tag pages.
 * Dark mode (powered by darkmode.js)
 * 95+ Google PageSpeed Insight score 🔥 – [Test it yourself!](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fritijjain.github.io%2Fpudhina-fresh&tab=desktop)
