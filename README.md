@@ -2,7 +2,8 @@
 Envio gratis en compras a partir de $1,599.
 
 
-Live Demo: [ritijjain.github.io/pudhina-fresh](https://ritijjain.github.io/pudhina-fresh), [ritijjain.com](https://ritijjain.com/)
+Pagina web: [ritijjain.github.io/pudhina-fresh](
+gorras-dm.github.io), [ritijjain.com](https://ritijjain.com/)
 
 * Minimal design based on Bootstrap 4.
 * Showcase your projects on the masonry style project page with collapsible cards – [demo](https://ritijjain.github.io/pudhina-fresh/projects/).
