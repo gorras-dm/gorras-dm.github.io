@@ -5,7 +5,7 @@ Envio gratis en compras a partir de $1,599.
 Pagina web: [gorras-dm.github.io](gorras-dm.github.io) 
 
 * Conoce las gorras originales, ropa y accesorios DM México.
-* Aquí encontrarás lanzamientos, novedades y mucha información sobre las gorras deportivas y de moda que DM tiene para ti. ¡Descubre más! – [demo](
+* Aquí encontrarás lanzamientos, novedades y mucha información sobre las gorras deportivas y de moda que DM tiene para ti. ¡Descubre más! – [DM](
 gorras-dm.github.io).
 * Categorize posts and projects using tags and view them on tag pages.
 * Dark mode (powered by darkmode.js)
