@@ -2,7 +2,7 @@
 Envio gratis en compras a partir de $1,599.
 
 
-Pagina web: [gorras-dm.github.io](gorras-dm.github.io), [ritijjain.com](https://ritijjain.com/)
+Pagina web: [gorras-dm.github.io](gorras-dm.github.io), 
 
 * Minimal design based on Bootstrap 4.
 * Showcase your projects on the masonry style project page with collapsible cards – [demo](https://ritijjain.github.io/pudhina-fresh/projects/).
